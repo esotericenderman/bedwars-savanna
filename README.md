@@ -4,6 +4,8 @@
 
 > A savannah-themed Minecraft map for my [Bedwars plugin](https://github.com/esotericenderman/bedwars).
 
+![Bedwars savanna map](./assets/images/screenshots/map.png)
+
 ## License
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
