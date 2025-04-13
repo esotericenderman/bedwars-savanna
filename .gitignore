@@ -22,3 +22,7 @@ DIM1
 
 # Backups
 *.dat_old
+
+# Unneeded files
+poi
+serverconfig
