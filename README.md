@@ -2,7 +2,7 @@
 
 [![Project status: completed](./assets/images/badges/status.svg)](./)
 
-> A savannah-themed map for my [Bedwars plugin](https://github.com/EsotericEnderman/bedwars-plugin).
+> A savannah-themed map for my [Bedwars plugin](https://github.com/esotericenderman/bedwars).
 
 ## License
 
