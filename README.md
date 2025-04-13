@@ -1,6 +1,6 @@
 # Bedwars Savannah Map
 
-[![Project Status: Completed](./assets/images/badges/status.svg)](./)
+[![Project status: completed](./assets/images/badges/status.svg)](./)
 
 > A savannah-themed map for my [Bedwars plugin](https://github.com/EsotericEnderman/bedwars-plugin).
 
@@ -12,4 +12,4 @@
 
 ## Topics
 
-minecraft minigames minigame minecraft-minigames minecraft-map minecraft-map-making minecraft-minigame minecraft-world minecraft-worlds minecraft-maps
+<sup>[minecraft](https://github.com/topics/minecraft), [minigames](https://github.com/topics/minigames), [minigame](https://github.com/topics/minigame), [minecraft-minigames](https://github.com/topics/minecraft-minigames), [minecraft-map](https://github.com/topics/minecraft-map), [minecraft-map-making](https://github.com/topics/minecraft-map-making), [minecraft-minigame](https://github.com/topics/minecraft-minigame), [minecraft-world](https://github.com/topics/minecraft-world), [minecraft-worlds](https://github.com/topics/minecraft-worlds), [minecraft-maps](https://github.com/topics/minecraft-maps)</sup>
