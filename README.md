@@ -8,7 +8,8 @@
 
 ## Features
 
-- 4 islands, 1 for each team
+- 2-4 teams
+- 1 island per team
 - Savanna biome theme
 - Acacia tree on each island
 - Coal and iron ores in the islands
