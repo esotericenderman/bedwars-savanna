@@ -6,6 +6,19 @@
 
 ![Bedwars savanna map](./assets/images/screenshots/map.png)
 
+## Features
+
+- 4 islands, 1 for each team
+- Savanna biome theme
+- Acacia tree on each island
+- Compatible with my [Bedwars plugin](https://github.com/esotericenderman/bedwars)
+
+See the [Bedwars plugin](https://github.com/esotericenderman/bedwars) page for more information.
+
+## Story
+
+I created this map as part of a [Udemy course](https://www.udemy.com/course/develop-minecraft-plugins-java-programming/) by [Stephen](https://github.com/stephendotgg) for the [minigame section](https://www.udemy.com/course/develop-minecraft-plugins-java-programming/learn/lecture/30007374).
+
 ## License
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
