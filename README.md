@@ -18,7 +18,7 @@ See the [Bedwars plugin](https://github.com/esotericenderman/bedwars) page for m
 
 ## Story
 
-I created this map as part of a [Udemy course](https://www.udemy.com/course/develop-minecraft-plugins-java-programming/) by [Stephen](https://github.com/stephendotgg) for the [minigame section](https://www.udemy.com/course/develop-minecraft-plugins-java-programming/learn/lecture/30007374).
+I created this map as part of the [minigame section](https://www.udemy.com/course/develop-minecraft-plugins-java-programming/learn/lecture/30007374) of the [Udemy course](https://www.udemy.com/course/develop-minecraft-plugins-java-programming/) for developing Minecraft plugins by [Stephen](https://github.com/stephendotgg).
 
 ## License
 
