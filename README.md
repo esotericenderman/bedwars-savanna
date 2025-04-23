@@ -11,6 +11,7 @@
 - 4 islands, 1 for each team
 - Savanna biome theme
 - Acacia tree on each island
+- Coal and iron ores in the islands
 - Compatible with my [Bedwars plugin](https://github.com/esotericenderman/bedwars)
 
 See the [Bedwars plugin](https://github.com/esotericenderman/bedwars) page for more information.
